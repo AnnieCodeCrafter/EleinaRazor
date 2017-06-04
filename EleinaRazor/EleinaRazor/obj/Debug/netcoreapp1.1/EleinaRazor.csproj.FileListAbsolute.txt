@@ -1,0 +1,9 @@
+C:\AAALL stuffs\EleinaRazor\EleinaRazor\EleinaRazor\bin\Debug\netcoreapp1.1\EleinaRazor.deps.json
+C:\AAALL stuffs\EleinaRazor\EleinaRazor\EleinaRazor\bin\Debug\netcoreapp1.1\EleinaRazor.runtimeconfig.json
+C:\AAALL stuffs\EleinaRazor\EleinaRazor\EleinaRazor\bin\Debug\netcoreapp1.1\EleinaRazor.runtimeconfig.dev.json
+C:\AAALL stuffs\EleinaRazor\EleinaRazor\EleinaRazor\bin\Debug\netcoreapp1.1\EleinaRazor.dll
+C:\AAALL stuffs\EleinaRazor\EleinaRazor\EleinaRazor\bin\Debug\netcoreapp1.1\EleinaRazor.pdb
+C:\AAALL stuffs\EleinaRazor\EleinaRazor\EleinaRazor\obj\Debug\netcoreapp1.1\EleinaRazor.csprojResolveAssemblyReference.cache
+C:\AAALL stuffs\EleinaRazor\EleinaRazor\EleinaRazor\obj\Debug\netcoreapp1.1\EleinaRazor.AssemblyInfo.cs
+C:\AAALL stuffs\EleinaRazor\EleinaRazor\EleinaRazor\obj\Debug\netcoreapp1.1\EleinaRazor.dll
+C:\AAALL stuffs\EleinaRazor\EleinaRazor\EleinaRazor\obj\Debug\netcoreapp1.1\EleinaRazor.pdb
